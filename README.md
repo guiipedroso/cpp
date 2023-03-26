@@ -23,6 +23,77 @@
             <td>Skeleton</td>
             <td>None</td>
         </tr>
+	<tr align="middle">
+            <td text-aling="center">1</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	  <tr align="middle">
+            <td text-aling="center">2</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">3</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">4</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">5</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">6</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">7</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">8</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">9</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">10</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">11</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">12</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">13</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+	<tr align="middle">
+            <td text-aling="center">14</td>
+            <td>Skeleton</td>
+            <td>None</td>
+        </tr>
+
     </table>
     </body>
 
